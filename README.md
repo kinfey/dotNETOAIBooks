@@ -1,4 +1,4 @@
-#  **Learn Azure OpenAI Service with .NET technologies**
+#  **Learn Azure OpenAI Service with .NET**
 
 This book is written for .NET developers using Azure OpenAI Service. I'm really excited to share my experience developing Azure OpenAI with .NET. As developers, we may be more concerned about how to use Azure OpenAI Service to create a fully intelligent application. If you think of generative AI as some REST API calls, it is very wrong. We need to look at the changes brought about by generative AI in a different way. I think this is a new operating system, which has changed our understanding of artificial intelligence in the past. We need to move from telling computers what to do to telling computers what must be done. Guide artificial intelligence to complete different tasks by writing some guidelines. Or writing code becomes less important in this change. How to manage these guidelines in the project is indispensable in a project. Microsoft released Semantic Kernel, an open-source framework for generative AI programming, to allow projects to more effectively manage these guidelines.
 

@@ -6,7 +6,7 @@ This book is divided into seven chapters. It is hoped that through the seven cha
 
 **Note:** Because OpenAI is constantly changing, the content of this book will be updated continuously, and I hope you can give us more suggestions.
 
-| Chapter | Enter |
+| Chapters | Go |
 | ---- | ---- |
 | Preface. Getting Started with Azure OpenAI Service | Go |
 | Chapter 1. Question Classification | Go |

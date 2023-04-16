@@ -11,7 +11,7 @@ This book is divided into seven chapters. It is hoped that through the seven cha
 | Preface. Getting Started with Azure OpenAI Service            | Go  |
 | Chapter 1. Question Classification                            | Go  |
 | Chapter 2. Management Your Skills                             | Go  |
-| Chapter 3. Understanding Microsoft Cognitive Search           | Go  |
+| Chapter 3. Using Azure AI extend Your Skill                   | Go  |
 | Chapter 4. Training your OpenAI model through Embedding       | Go  |
 | Chapter 5. Managing your Q&A context logic through cache      | Go  |
 | Chapter 6. Architect your OpenAI project with Semantic Kernel | Go  |
@@ -31,7 +31,7 @@ This book is divided into seven chapters. It is hoped that through the seven cha
 | 前言. Azure OpenAI Service 入门                   | <a href="./CN/00.KickOffCN.md">进入</a>                     |
 | 第一章. 问题分类                                  | <a href="./CN/01.HowToQuestionClassificationCN.md">进入</a> |
 | 第二章. 管理你的技能                              | <a href="./CN/02.AddSkillCN.md">进入</a>                    |
-| 第三章. 了解微软认知搜索                          | 进入                                                        |
+| 第三章. 结合 Azure AI 扩展你的技能                | <a href="./CN/03.ImportAzureAICN.md">进入</a>                  |
 | 第四章. 通过 Embedding 来调教你的 OpenAI 模型     | 进入                                                        |
 | 第五章. 通过缓存来管理你的问答上下文逻辑          | 进入                                                        |
 | 第六章. 通过 Semantic Kernel 架构你的 OpenAI 项目 | 进入                                                        |

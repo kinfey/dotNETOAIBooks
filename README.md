@@ -17,6 +17,9 @@ This book is divided into seven chapters. It is hoped that through the seven cha
 | Chapter 6. Architect your OpenAI project with Semantic Kernel | Go  |
 
 
+Special thanks to Meat @pperlee for proofreading, and 保哥 @doggy8088 for traditional Chinese conversion
+
+
 #  **用 .NET 技术学习 Azure OpenAI Service**
 
 本书是为 .NET 开发者使用 Azure OpenAI Service 而写的。我很开心能和大家一起分享用 .NET 开发 Azure OpenAI 的经验。作为开发者我们可能更关心的是如何使用好 Azure OpenAI Service， 打造一个全智能的应用。如果你把生成式 AI 看成是一些简单接口调用是非常错误的。我们需要换一个思维看待这次生成式 AI 所带来的变革。我觉得这是一个全新的操作系统，它改变了我们过往对人工智能的认识。我们需要告诉计算机要怎么做转变为告诉计算机必须要完成什么。通过写一些指引去引导人工智能完成不同的任务。或者写代码在这个转变中变得不太重要了。那如何在项目中管理这些指引是一个项目中不可缺少的。微软发布了开源的面向生成式 AI 编程的框架 Semantic Kernel，让项目能更有效地管理这些指引。
@@ -35,4 +38,6 @@ This book is divided into seven chapters. It is hoped that through the seven cha
 | 第四章. 通过 Embedding 来调教你的 OpenAI 模型     | 进入                                                        |
 | 第五章. 通过缓存来管理你的问答上下文逻辑          | 进入                                                        |
 | 第六章. 通过 Semantic Kernel 架构你的 OpenAI 项目 | 进入                                                        |
+
+特别鸣谢：肉总 @pperlee 的校对，以及保哥 @doggy8088 的繁体转换
 

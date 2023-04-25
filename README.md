@@ -4,7 +4,7 @@ This book is written for .NET developers using Azure OpenAI Service. I'm really 
 
 This book is divided into seven chapters. It is hoped that through the seven chapters, .NET developers can quickly grasp the relevant knowledge of Azure OpenAI Service, use familiar C# combined with Semantic Kernel, and different artificial intelligence knowledge, cloud native knowledge to build Azure OpenAI applications .
 
-**Note:** Because OpenAI and Semantic Kernel are constantly changing, the content of this book will be updated continuously, and I hope you can give us more suggestions. All current examples are based on 0.11.146.1-preview
+**Note:** Because OpenAI and Semantic Kernel are constantly changing, the content of this book will be updated continuously, and I hope you can give us more suggestions.  **All current examples are based on 0.13.277.1-preview**
 
 | Chapters                                                      | Go  |
 | ------------------------------------------------------------- | --- |
@@ -26,7 +26,7 @@ Special thanks to Meat @pperlee for proofreading, and 保哥 @doggy8088 for trad
 
 本书分为七章，希望通过七章的内容，让 .NET 开发者快速掌握 Azure OpenAI Service 的相关知识，用熟悉的 C# 结合 Semantic Kernel ，以及不同的人工智能知识，云原生知识构建 Azure OpenAI 应用。
 
-**注意：** 因为 OpenAI 和 Semantic Kernel 不断变化当中，所以本书会不断内容更新，也希望大家多给建议。目前的所有例子都基于 0.11.146.1-preview
+**注意：** 因为 OpenAI 和 Semantic Kernel 不断变化当中，所以本书会不断内容更新，也希望大家多给建议。**目前的所有例子都基于 0.13.277.1-preview**
 
 
 | 章节                                              | 进入                                                        |

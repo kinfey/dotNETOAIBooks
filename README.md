@@ -35,7 +35,7 @@ Special thanks to Meat @pperlee for proofreading, and 保哥 @doggy8088 for trad
 | 第一章. 问题分类                                  | <a href="./CN/01.HowToQuestionClassificationCN.md">进入</a> |
 | 第二章. 管理你的技能                              | <a href="./CN/02.AddSkillCN.md">进入</a>                    |
 | 第三章. 结合 Azure AI 扩展你的技能                | <a href="./CN/03.ImportAzureAICN.md">进入</a>                  |
-| 第四章. 通过 Embedding 来调教你的 OpenAI 模型     | 进入                                                        |
+| 第四章. 通过 Embedding 来调教你的 OpenAI 模型     | <a href="./CN/04.EmbeddingCN.md">进入</a>                  |
 | 第五章. 通过缓存来管理你的问答上下文逻辑          | 进入                                                        |
 | 第六章. 通过 Semantic Kernel 架构你的 OpenAI 项目 | 进入                                                        |
 
